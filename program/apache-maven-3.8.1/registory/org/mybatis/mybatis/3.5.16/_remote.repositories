@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 07 16:53:29 CST 2024
+mybatis-3.5.16.jar>nexus-aliyun=
+mybatis-3.5.16.pom>nexus-aliyun=
